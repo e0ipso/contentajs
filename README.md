@@ -1,3 +1,9 @@
+# Important note
+
+This is an experimental project forked from the amazing (Strapi.io)[http://strapi.io/].
+
+<hr />
+
 <p align="center"><img src="https://blog.strapi.io/content/images/2017/10/logo.png" width="318px" /></p>
 <h3 align="center">API creation made simple, secure and fast.</h3>
 <p align="center">The most advanced open-source Content Management Framework to build powerful API with no effort.</p>
